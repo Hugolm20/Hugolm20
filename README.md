@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hugolm20. My name is Hugo Lobato
+- 👋 Hi, I’m Hugo Lobato!
 - 👀 I’m interested in share my personals projects.
 - 🌱 I’m currently learning machine learning
 
