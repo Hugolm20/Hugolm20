@@ -3,7 +3,7 @@
 - 📚 Currently i'm graduating in Mechanical Engeneer at State University of Rio de Janeiro (Universidade do Estado do Rio de Janeiro - Uerj). 
 - 👀 Here I want to share the projects which I take of Kaggle and try to solve by myself in Jupyter Notebook. They are about Data Science using Python and Data Analytics.
 - 📊 In Data Analytics I have experience in BI Programs like Power BI and Google Data Studio. 
-- 📌 Nowadays i'm working as BI Intern at Uello .
+- 📌 Nowadays i'm working as BI Intern at [Uello](https://gustavoguanabara.github.io) .
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugolm20)](https://github.com/anuraghazra/github-readme-stats)
