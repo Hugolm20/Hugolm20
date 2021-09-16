@@ -3,11 +3,11 @@
 - 📚 Currently i'm graduating in Mechanical Engeneer at State University of Rio de Janeiro (Universidade do Estado do Rio de Janeiro - Uerj). 
 - 👀 Here I want to share the projects which I take of Kaggle and try to solve by myself in Jupyter Notebook. They are about Data Science using Python and Data Analytics.
 - 📊 In Data Analytics I have experience in:
-  . Power BI 
-  . Google Data Studio
-  . SQL
-  . Metabase
-  . Google BigQuery
+  * Power BI 
+  * Google Data Studio
+  * SQL
+  * Metabase
+  * Google BigQuery
 - 📌 Nowadays i'm working as BI Intern at [Uello](https://gustavoguanabara.github.io) .
 
 
