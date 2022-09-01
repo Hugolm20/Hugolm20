@@ -8,7 +8,7 @@
   * SQL
   * Metabase
   * Google BigQuery
-- 📌 Nowadays i'm working as Data Intern at [Uello](https://gustavoguanabara.github.io) .
+- 📌 Nowadays i'm working as Data Intern at [Uello](https://www.uello.com.br/) .
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugolm20)](https://github.com/anuraghazra/github-readme-stats)
