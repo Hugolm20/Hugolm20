@@ -11,7 +11,12 @@
 - 📌 Nowadays i'm working as Data Intern at [Uello](https://www.uello.com.br/) .
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugolm20)](https://github.com/anuraghazra/github-readme-stats)
+ <div>
+  <a href="https://github.com/mauricioarauujo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugolm20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugolm20&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
 
  ### Find Me: 
 <p align="center">
