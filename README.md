@@ -11,10 +11,10 @@
 - 📌 Nowadays i'm working as Data Intern at [Uello](https://www.uello.com.br/) .
 
 
- <div>
-  <a href="https://github.com/mauricioarauujo">
+<div align="center">
+  <a href="https://github.com/Hugolm20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugolm20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugolm20&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugolm20&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
