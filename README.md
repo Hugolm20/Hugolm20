@@ -4,19 +4,15 @@
 - 👀 Here I want to share the projects.
 - 📊 I have experience in:
   * Python
-  * Google Cloud Platform using BigQuery, CloudStorage, Firebase
+  * DBT
+  * Google Cloud Platform using BigQuery, CloudStorage, Firebase, Composer, App Engine
   * SQL
   * Metabase
   * Airflow
+  * Terraform
+  * Airbyte
   * Git
 - 📌 Nowadays i'm working as Junior Data Engineer at [Uello](https://www.uello.com.br/) .
-
-
-<div align="center">
-  <a href="https://github.com/Hugolm20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugolm20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugolm20&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 
  ### Find Me: 
