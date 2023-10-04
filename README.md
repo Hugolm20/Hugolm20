@@ -12,7 +12,7 @@
   * Terraform
   * Airbyte
   * Git
-- 📌 Nowadays i'm working as Junior Data Engineer at [Uello](https://www.uello.com.br/) .
+- 📌 Nowadays i'm working as Data Engineer.
 
 
  ### Find Me: 
