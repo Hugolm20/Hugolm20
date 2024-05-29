@@ -5,12 +5,17 @@
 - 📊 I have experience in:
   * Python
   * DBT
-  * Google Cloud Platform using BigQuery, CloudStorage, Firebase, Composer, App Engine
+  * Google Cloud Platform and Azure Cloud
+  * Shell scripts
+  * CI/CD pipelines
   * SQL
   * Metabase
   * Airflow
   * Terraform
   * Airbyte
+  * Docker and Docker Compose
+  * JFrog
+  * SonarQube
   * Git
 - 📌 Nowadays i'm working as Data Engineer.
 
